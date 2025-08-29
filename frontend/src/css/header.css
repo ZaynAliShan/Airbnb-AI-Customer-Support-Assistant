@@ -1,0 +1,33 @@
+.navbar {
+  padding: 1rem 1.7rem;
+  border-bottom: 1px solid #bfbfbf;
+}
+
+.site-logo {
+  height: 32px;
+  width: auto;
+}
+
+.navbar-toggler {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  height: 2.2em;
+}
+
+.navbar-toggler-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.navbar-toggler:focus {
+  outline: none;
+  box-shadow: 0 0 2px rgba(0, 123, 255, 0.5); /* Adds a subtle blue glow */
+}
+
+.account-icon {
+  margin-left: 10px;
+  font-size: 26px;
+  color: rgb(139, 139, 139);
+}
