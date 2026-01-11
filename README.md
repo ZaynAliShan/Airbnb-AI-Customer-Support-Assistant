@@ -59,8 +59,8 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/ZaynAliShan/Airbnb-AI-Customer-Support.git
-cd Airbnb-AI-Customer-Support
+git clone https://github.com/ZaynAliShan/Airbnb-AI-Customer-Support-Assistant.git
+cd  Airbnb AI Customer Support Assistant
 ```
 
 ### Step 2: Install Dependencies
